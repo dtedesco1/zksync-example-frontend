@@ -44,7 +44,7 @@
 
 <script>
 // eslint-disable-next-line
-const GREETER_CONTRACT_ADDRESS = ''; // TODO: Add smart contract address
+const GREETER_CONTRACT_ADDRESS = '0x8B3Acf2ad2eB7Ac71bA9F40322dB1CC420017894';
 // eslint-disable-next-line
 const GREETER_CONTRACT_ABI = []; // TODO: Add link to the ABI  
 
