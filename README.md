@@ -1,5 +1,7 @@
 # greeter-front-end
 
+Playing around with zkSync 2.0's testnet
+
 ## Project setup
 ```
 yarn install
